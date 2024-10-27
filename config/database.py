@@ -15,8 +15,8 @@ DB_CONFIG = {
     'driver': 'ODBC Driver 17 for SQL Server',
     'server': 'APOORAV_MALIK',
     'database': 'tempdb',
-    'username': 'sa',
-    'password': 'M00se1980',
+    'username': 'user_name',
+    'password': 'pwd',
     'trust_cert': 'yes'
 }
 
